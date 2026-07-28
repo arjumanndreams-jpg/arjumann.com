@@ -1,8 +1,8 @@
 body {
     margin:0;
-    background:#0e0e0e;
-    color:#f5f5f5;
-    font-family: "Helvetica Neue", Arial, sans-serif;
+    background:#d8c7a5;
+    color:#ffffff;
+    font-family: "Inter", sans-serif;
 }
 
 
@@ -34,6 +34,12 @@ nav a {
     justify-content:center;
     align-items:center;
     text-align:center;
+    background:
+
+linear-gradient(
+rgba(0,0,0,0.5),
+rgba(0,0,0,0.5)
+);
 
 }
 
